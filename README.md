@@ -169,10 +169,10 @@ Una volta che hai fatto dei commit localmente, puoi inviarli al repository remot
 
 ## 11. Link utili
 
-Per ulteriori dettagli sul flusso di lavoro e la gestione di repository, consulta il file [GITHUB.md](./src/GITHUB.md).
-Per approfondire la convenzione dei commit in Git, consulta il file [CONVENTIONAL_COMMITS.md](./src/CONVENTIONAL_COMMITS.mdCONVENTIONAL_COMMITS.md).
-Per una guida più dettagliata su come configurare e utilizzare i comandi di Git, consulta il file [SETUPECOMANDI_GIT.md](./src/SETUPECOMANDI_GIT.md.md).
-Per una guida dettagliata sull'utilizzo dei comandi Git, consulta il file SETUPECOMANDI_GIT.md.
+- Per ulteriori dettagli sul flusso di lavoro e la gestione di repository, consulta il file [GITHUB.md](./src/GITHUB.md).
+- Per approfondire la convenzione dei commit in Git, consulta il file [CONVENTIONAL_COMMITS.md](./src/CONVENTIONAL_COMMITS.mdCONVENTIONAL_COMMITS.md).
+- Per una guida più dettagliata su come configurare e utilizzare i comandi di Git, consulta il file [SETUPECOMANDI_GIT.md](./src/SETUPECOMANDI_GIT.md.md).
+- Per una guida dettagliata sull'utilizzo dei comandi Git, consulta il file SETUPECOMANDI_GIT.md.
 
 ## Conclusione
 
