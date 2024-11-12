@@ -1,6 +1,3 @@
-Ecco il contenuto in formato Markdown:
-
-````markdown
 # Guida Iniziale a Git e GitHub
 
 ## 1. Cos'è Git
@@ -21,7 +18,6 @@ Per iniziare con Git, devi prima installarlo:
   ```bash
   sudo apt-get install git
   ```
-````
 
 Una volta installato, puoi verificare l'installazione aprendo il terminale e digitando:
 
@@ -174,7 +170,3 @@ Una volta che hai fatto dei commit localmente, puoi inviarli al repository remot
 ## Conclusione
 
 Git è uno strumento fondamentale per il versionamento del codice, e GitHub fornisce un potente servizio di hosting per i repository Git. Imparare i concetti di base di Git—come l’inizializzazione di un repository, l’utilizzo dei branch, il commit e il merge—è essenziale per lavorare in modo collaborativo su progetti software. Con un po’ di pratica, sarai in grado di usare Git con facilità per tracciare, condividere e collaborare sul codice.
-
-```
-
-```
