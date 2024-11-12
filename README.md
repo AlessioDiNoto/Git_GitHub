@@ -167,6 +167,13 @@ Una volta che hai fatto dei commit localmente, puoi inviarli al repository remot
   git pull origin main
   ```
 
+## 11. Link utili
+
+- Per ulteriori dettagli sul flusso di lavoro e la gestione di repository, consulta il file [GITHUB.md](./src/GITHUB.md).
+- Per approfondire la convenzione dei commit in Git, consulta il file [CONVENTIONAL_COMMITS.md](./src/CONVENTIONAL_COMMITS.mdCONVENTIONAL_COMMITS.md).
+- Per una guida più dettagliata su come configurare e utilizzare i comandi di Git, consulta il file [SETUPECOMANDI_GIT.md](./src/SETUPECOMANDI_GIT.md.md).
+- Per una guida dettagliata sull'utilizzo dei comandi Git, consulta il file SETUPECOMANDI_GIT.md.
+
 ## Conclusione
 
 Git è uno strumento fondamentale per il versionamento del codice, e GitHub fornisce un potente servizio di hosting per i repository Git. Imparare i concetti di base di Git—come l’inizializzazione di un repository, l’utilizzo dei branch, il commit e il merge—è essenziale per lavorare in modo collaborativo su progetti software. Con un po’ di pratica, sarai in grado di usare Git con facilità per tracciare, condividere e collaborare sul codice.
